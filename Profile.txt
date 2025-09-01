@@ -5,3 +5,10 @@ Gender : Male
 Age : 20
 Birthday : December 17 2004
 Contacts : 09639128038
+
+Birth of Place : Butuan City
+Religion : The Church of Jesus Christ Latter Day Saints
+Father's Name : Religio Sanrojo
+Occupation : Driver
+Mother's Name : Alma Sanrojo
+Occupation : House Wife

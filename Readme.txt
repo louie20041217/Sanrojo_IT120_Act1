@@ -169,12 +169,3 @@ remote:      https://github.com/louie20041217/Sanrojo_IT120_Act1/pull/new/Sanroj
 remote:
 To https://github.com/louie20041217/Sanrojo_IT120_Act1.git
  * [new branch]      Sanrojo_B3 -> Sanrojo_B3
-
-Administrator@DESKTOP-AV2PARO MINGW64 ~/Desktop/Sanrojo_IT120_Activity1 (Sanrojo_B3)
-$ git checkout master
-Switched to branch 'master'
-Your branch is up to date with 'origin/master'.
-
-Administrator@DESKTOP-AV2PARO MINGW64 ~/Desktop/Sanrojo_IT120_Activity1 (master)
-$ git checkout -b Sanrojo_B4
-Switched to a new branch 'Sanrojo_B4'
